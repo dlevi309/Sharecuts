@@ -1,0 +1,4 @@
+# Sharecuts
+this tweak allows importing/exporting .shortcut files directly within the official app rather than uploading to iCloud. It's actually a built in Apple internal feature that has been around since the public release of iOS 13, so there really aren’t any bugs to expect, it works perfectly and will never interfere with any of the native shortcut features. I expected with the massive overhaul of the iOS 14 that this feature was bound to be removed because i’d noticed the previous references were missing, but it turns out to still work perfectly! No options to configure, just look out for the "share as file" extension in the share sheet within the app, and you’ll now be able to import your shortcuts through the share-sheet. See the example screenshots below for further clarification, and feel free to check out the code because this package is [open source](https://github.com/dlevi309/Sharecuts)
+
+video of [importing ](https://youtu.be/bhfISahreFA)

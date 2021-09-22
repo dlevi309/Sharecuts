@@ -1,0 +1,9 @@
+Package: daniel.sharecuts
+Name: Sharecuts
+Depends: mobilesubstrate
+Version: 0.0.3
+Architecture: iphoneos-arm
+Description: Share/import shortcuts as files natively 
+Maintainer: daniel
+Author: daniel
+Section: Tweaks
