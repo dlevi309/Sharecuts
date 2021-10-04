@@ -6,7 +6,6 @@
 	<dict>
 		<key>Bundles</key>
 		<array>
-			<string>com.apple.siri.shortcuts</string>
 			<string>com.apple.shortcuts</string>
 		</array>
 	</dict>
