@@ -6,7 +6,7 @@
 	<dict>
 		<key>Bundles</key>
 		<array>
-			<string>com.apple.shortcuts</string>
+			<string>com.apple.WorkflowKit</string>
 		</array>
 	</dict>
 </dict>

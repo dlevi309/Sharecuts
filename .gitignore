@@ -1,4 +1,4 @@
-*.theos/
-*.DS_Store
+.theos/
+.DS_Store
 packages/
 
